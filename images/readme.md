@@ -1,0 +1,1 @@
+### The generated images during training saved in this folder
